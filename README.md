@@ -1,4 +1,4 @@
-# Hi there, I'm Geunat Alaa Edddin 👋
+# Hi there, I'm Guenat Alaa Edddin 👋
 
 Welcome to my GitHub profile!  
 I'm a passionate developer who loves building cool stuff and learning new technologies.
